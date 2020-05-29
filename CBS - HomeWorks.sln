@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CBS - HomeWork 2", "CBS - H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBS - HomeWork 3", "CBS - HomeWork 3\CBS - HomeWork 3.csproj", "{11242BEB-C898-4625-9327-14F68884DDEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBS - HomeWork 4", "CBS - HomeWork 4\CBS - HomeWork 4.csproj", "{81703B39-6B57-4896-B6DD-7FE28C3FE1DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{11242BEB-C898-4625-9327-14F68884DDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11242BEB-C898-4625-9327-14F68884DDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11242BEB-C898-4625-9327-14F68884DDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81703B39-6B57-4896-B6DD-7FE28C3FE1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81703B39-6B57-4896-B6DD-7FE28C3FE1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81703B39-6B57-4896-B6DD-7FE28C3FE1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81703B39-6B57-4896-B6DD-7FE28C3FE1DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
